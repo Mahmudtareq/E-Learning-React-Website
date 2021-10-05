@@ -18,15 +18,16 @@ const ContactUs = () => {
         <div className="contact-container">
             <MenuBar></MenuBar>
             <div className="row d-flex align-items-center justify-content-center my-5  p-4">
-                <h1 className="">Login Form</h1>
-                <div className="col-md-6  bg-info">
+                <h1 className=" text-primary my-4">Login Form</h1>
+                <div className="col-md-6">
                     <div>
                         <h1>Good To see You <br /> again !</h1>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi velit accusamus impedit deleniti quisquam totam quis ullam aut similique dignissimos incidunt voluptates veniam vitae, quidem deserunt voluptas dicta ab inventore.</p>
+                        <p>With Tareq Academy, teachers can identify gaps in their students’ understanding, tailor instruction, and meet the needs of every student.</p>
 
                     </div>
 
                 </div>
+
                 <div className="col-md-6  login-form">
                     <div className="mt-4 p-4">
                         <Button className="button-design" variant="outline-primary">
@@ -45,6 +46,7 @@ const ContactUs = () => {
                             <small className="me-2"> <FontAwesomeIcon icon={faLinkedin} /></small>
 
                             Continue With Linked</Button>
+
                         <br />
                         <br />
                         <Button className="button-design" variant="outline-primary">

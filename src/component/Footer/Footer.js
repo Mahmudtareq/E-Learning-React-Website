@@ -2,16 +2,8 @@ import React from "react";
 import './Footer.css';
 // import ReactDOM from "react-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+
 import {
-    faFacebookSquare,
-    faInstagramSquare,
-    faTwitterSquare,
-    faYoutube,
-} from "@fortawesome/free-brands-svg-icons";
-import {
-    faCoffee,
-    faPhoneVolume,
-    faMapMarkedAlt,
     faPhone,
     faClock
 } from "@fortawesome/free-solid-svg-icons";

@@ -45,6 +45,25 @@ const AboutUs = () => {
 
                 </div>
 
+                <div className="my-5">
+                    <h1 className="text-success my-4">Join Tareq Academy today</h1>
+                    <Button className="button-design btn btn-primary" variant="">Learners
+                    </Button>
+                    <br />
+                    <br />
+                    <Button className="button-design btn btn-primary" variant="outline-primary">Parents
+                    </Button>
+                    <br />
+                    <br />
+                    <Button className="button-design btn btn-primary" variant="outline-primary">Teachers
+                    </Button>
+                    <br />
+                    <br />
+                    <Button className="button-design btn btn-primary" variant="outline-primary">Give Today
+                    </Button>
+
+
+                </div>
                 <Footer></Footer>
 
             </div>

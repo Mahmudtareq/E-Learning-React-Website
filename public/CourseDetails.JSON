@@ -3,7 +3,7 @@
         "name": "Social Computing",
         "instructor": "David Sanders",
         "free": " $ 50",
-        "title": "Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos",
+        "title": "Social computing is an area of computer science that is concerned with the intersection of social behavior and computational systems",
         "img": "https://iacademy.qodeinteractive.com/wp-content/uploads/2017/05/course-2-f-img.jpg",
         "Categories": "Programming"
     },
@@ -11,7 +11,7 @@
         "name": "Basic Marketing",
         "instructor": "Edward Bowman",
         "free": " $ 70",
-        "title": "Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos",
+        "title": "Marketing is the process of planning and executing the conception, pricing, promotion and distribution of your ideas, goods or services to satisfy  ",
         "img": "https://iacademy.qodeinteractive.com/wp-content/uploads/2017/05/course-4-f-img.jpg",
         "Categories": "Programming"
     },
@@ -19,7 +19,7 @@
         "name": "Academic English",
         "instructor": "David Sanders",
         "free": " $ 50",
-        "title": "Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos",
+        "title": "English for academic purposes, commonly known as Academic English, entails training students, usually in a higher education setting",
         "img": "https://iacademy.qodeinteractive.com/wp-content/uploads/2017/05/course-2-f-img.jpg",
         "Categories": "Business"
     },
@@ -27,7 +27,7 @@
         "name": "Android Developer",
         "instructor": "David Sanders",
         "free": " $100",
-        "title": "Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos",
+        "title": "Android is a mobile operating system based on a modified version of the Linux kernel and other open source software designed primarily for touchscreen",
         "img": "https://iacademy.qodeinteractive.com/wp-content/uploads/2017/05/course-5-f-img.jpg",
         "Categories": "Programming"
     },
@@ -35,7 +35,7 @@
         "name": "Web Designing",
         "instructor": "Jennifer powell",
         "free": " $ 150",
-        "title": "Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos",
+        "title": "Web design encompasses many different skills and disciplines in the production and maintenance of websites  The different areas of web design include",
         "img": "https://iacademy.qodeinteractive.com/wp-content/uploads/2017/05/course-6-f-img.jpg",
         "Categories": "Programming"
     },
@@ -43,16 +43,32 @@
         "name": "learn Spanish",
         "instructor": "Jennie King",
         "free": " $ 30",
-        "title": "Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos",
+        "title": "Learn Spanish with Rosetta Stone®, the best way to learn a language online. Use your mobile, desktop, tablet, anytime, anywhere to learn Spanish",
         "img": "https://iacademy.qodeinteractive.com/wp-content/uploads/2017/05/course-3-f-img.jpg",
         "Categories": "Language"
     },
     {
-        "name": "Academic English",
+        "name": "Learning English",
         "instructor": "Dave Robbins",
         "free": " $ 30",
-        "title": "Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos",
+        "title": "Knowing English increases your chances of getting a good job in a multinational company within your home country or for finding work abroad. It's also the language of international",
         "img": "https://iacademy.qodeinteractive.com/wp-content/uploads/2017/05/course-11-f-img.jpg",
         "Categories": "Language"
+    },
+    {
+        "name": "Python Programming",
+        "instructor": "Dave Lorence",
+        "free": " $ 130",
+        "title": "Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation. Its language constructs as  well as its object-oriented ",
+        "img": "https://i.ytimg.com/vi/vwFHt9DWy5w/maxresdefault.jpg",
+        "Categories": "Programming"
+    },
+    {
+        "name": "Machine Learning A-Z",
+        "instructor": " Robbins Dave",
+        "free": " $ 200",
+        "title": "Machine Learning A-Z™ on Udemy is an impressively detailed offering that provides instruction in both Python and R, which is rare and can't be said for any of the other top courses",
+        "img": "https://editor.analyticsvidhya.com/uploads/70332https___specials-images.forbesimg.com_dam_imageserve_966248982_960x0.jpg",
+        "Categories": "Programming"
     }
 ]

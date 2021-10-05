@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Footer from '../Footer/Footer';
-import Header from '../Header/Header';
+
 import MenuBar from '../MenuBar/MenuBar';
 import ShowCourse from '../ShowCourse/ShowCourse';
 import './OurCourse.css';
@@ -15,26 +15,32 @@ const OurCourse = () => {
 
     return (
 
-        <div className="course-container">
+        <div className="course-container my-5">
             <MenuBar></MenuBar>
+            <div className="my-5 p-2">
+                <div className="mt-4">
+                    <h1 className="text-primary fw-900">Our Popular Course</h1>
+                    <p>Students practice at their own pace, first filling in gaps in their understanding and then accelerating their learning.
+                        <br />
+                        We are always try to provide best course what are students need !!
+                    </p>
+                </div>
 
-            <div className="">
-                <h1>Our Popular Courses</h1>
+                <div>
+                    <div className=" course-card container ">
+                        {
+                            courses.map(course => <ShowCourse
+                                key={course.name}
+                                course={course}></ShowCourse>)
+                        }
+
+                    </div>
+
+                </div>
+
 
             </div>
-            <h1>Our Popular Courses</h1>
 
-
-
-
-            <div className=" course-card container">
-
-                {
-                    courses.map(course => <ShowCourse
-                        course={course}></ShowCourse>)
-                }
-
-            </div>
             <Footer></Footer>
 
         </div>

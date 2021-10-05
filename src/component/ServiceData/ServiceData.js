@@ -7,15 +7,16 @@ const ServiceData = (props) => {
     const { name, img, title } = props.service;
     return (
         <div>
+
             <Row >
                 <Col xs={10} md={12} className="g-4">
                     <Card className="shadow m-2 height-card">
-                        <Card.Img variant="top" className="image-container" src={img} />
+                        <Card.Img variant="top" className="image-container" src={img} height="180px" />
                         <Card.Body>
-                            <Card.Title>
+                            <Card.Title className="text-primary">
                                 {name}
                             </Card.Title>
-                            <Card.Text>
+                            <Card.Text className="text-justify">
                                 {title}
                             </Card.Text>
                             <Button className="btn btn-primary">Details</Button>
