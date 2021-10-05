@@ -13,11 +13,11 @@
     font-size: 59px;
   }
   .about-btn {
-    background-color:green;
+    background-color:rgb(175, 235, 56);
     outline: none;
     border: none;
     padding: 17px 34px;
-    color: white;
+    color: black;
     border-radius: 20px;
     cursor: pointer;
   }

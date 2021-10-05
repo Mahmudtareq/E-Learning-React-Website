@@ -8,15 +8,19 @@ const Header = () => {
             <div className="">
                 <div className="row d-flex banner align-items-center justify-content-center">
                     <MenuBar></MenuBar>
+
                     <div className="col-md-6">
                         <h1 className="title">
-                            Bring Tutoring Right <br /> o Your Home.
+                            For every student, <br /> every classroom. <br />
+                            Real results.
                         </h1>
                         <p className="text-dark text-center mt-3">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit
-                            tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+                            We’re a nonprofit with the mission to provide a free, world-class <br />
+                            education for anyone, anywhere.
                         </p>
-                        <button className="mt-3 about-btn">REGISTER NOW</button>
+                        <button className="m-2 about-btn">Learners</button>
+                        <button className="m-2 about-btn">Teachers</button>
+                        <button className="m-2 about-btn">Parents</button>
                     </div>
                     <div className="col-md-6">
                         <img src="https://iacademy.qodeinteractive.com/wp-content/uploads/2017/05/h4-img-1.png" alt="" />

@@ -6,6 +6,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import AboutUs from './component/AboutUs/AboutUs';
 import OurCourse from './component/OurCourse/OurCourse';
 import NotFound from './component/NotFound/NotFound';
+import ContactUs from './component/ContactUs/ContactUs';
 
 function App() {
   return (
@@ -23,6 +24,9 @@ function App() {
           </Route>
           <Route exact path="/course">
             <OurCourse></OurCourse>
+          </Route>
+          <Route exact path="/contact">
+            <ContactUs></ContactUs>
           </Route>
 
           <Route exact path="*">

@@ -5,11 +5,12 @@ import './MenuBar.css';
 
 const MenuBar = () => {
     return (
-        <div className="MenuBar-container bg-info w-100 vert-align mb-2" >
+        <div className="MenuBar-container bg-info w-100 vert-align" >
             <div className="">
                 <div className="row" sticky="top">
-                    <div className="col-md-3 mt-3">
-                        <NavLink className="text-white items" to="#">E-Learning</NavLink>
+                    <div className="col-md-3  mt-2">
+                        <Navbar.Brand className="nav-item" href="#home">TAREQ ACADEMY</Navbar.Brand>
+                        {/* <NavLink className="text-white items" to="#">E-Learning</NavLink> */}
                     </div>
                     <div className="col-md-9">
                         <div className="menu-container ">
@@ -21,7 +22,7 @@ const MenuBar = () => {
                                     <li>About us</li>
                                 </NavLink>
                                 <NavLink to="/contact" className="items">
-                                    <li>Contact us</li>
+                                    <li>Login</li>
                                 </NavLink>
                                 <NavLink to="/course" className="items">
                                     <li>Our Course</li>

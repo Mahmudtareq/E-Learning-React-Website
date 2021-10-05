@@ -1,3 +1,6 @@
+.MenuBar-container{
+  margin-bottom: 50px;
+}
 .items {
     list-style: none;
     margin-right: 30px;
@@ -16,5 +19,12 @@
     top:0;
     position: fixed;
     z-index:100;
+}
+.nav-item{
+  font-size: 30px;
+  color:black;
+}
+.nav-item:hover{
+  color: rgb(99, 71, 255);
 }
   
