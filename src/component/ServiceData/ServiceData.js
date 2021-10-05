@@ -16,7 +16,7 @@ const ServiceData = (props) => {
                             <Card.Title className="text-primary">
                                 {name}
                             </Card.Title>
-                            <Card.Text className="text-justify">
+                            <Card.Text className="title-design">
                                 {title}
                             </Card.Text>
                             <Button className="btn btn-primary">Details</Button>

@@ -10,13 +10,13 @@ const Header = () => {
                     <MenuBar></MenuBar>
 
                     <div className="col-md-6">
-                        <h1 className="title">
+                        <h1 className="title text-primary">
                             For every student, <br /> every classroom <br />
                             Real results.
                         </h1>
-                        <p className="text-dark text-center mt-3">
+                        <p className=" text-center mt-3 text-info">
                             We’re a nonprofit with the mission to provide a free, world-class <br />
-                            education for anyone, anywhere.
+                            education for anyone, anywhere!!!!
                         </p>
                         <button className="m-2 about-btn">Learners</button>
                         <button className="m-2 about-btn">Teachers</button>

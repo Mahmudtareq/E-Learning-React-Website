@@ -19,7 +19,7 @@ const OurCourse = () => {
             <MenuBar></MenuBar>
             <div className="my-5 p-2">
                 <div className="mt-4">
-                    <h1 className="text-primary fw-900">Our Popular Course</h1>
+                    <h1 className="text-primary fw-900 mt-5">Our Popular Course</h1>
                     <p>Students practice at their own pace, first filling in gaps in their understanding and then accelerating their learning.
                         <br />
                         We are always try to provide best course what are students need !!

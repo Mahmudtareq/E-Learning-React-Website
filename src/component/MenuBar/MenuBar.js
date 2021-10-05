@@ -5,9 +5,9 @@ import './MenuBar.css';
 
 const MenuBar = () => {
     return (
-        <div className="MenuBar-container bg-info w-100 vert-align" >
+        <div className="MenuBar-container bg-info vert-align container-fluid p-2" >
             <div className="">
-                <div className="row" sticky="top">
+                <div className="row" >
                     <div className="col-md-3  mt-2">
                         <Navbar.Brand className="nav-item" href="#home">TAREQ ACADEMY</Navbar.Brand>
 
