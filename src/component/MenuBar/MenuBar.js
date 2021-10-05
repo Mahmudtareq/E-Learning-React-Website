@@ -10,7 +10,7 @@ const MenuBar = () => {
                 <div className="row" sticky="top">
                     <div className="col-md-3  mt-2">
                         <Navbar.Brand className="nav-item" href="#home">TAREQ ACADEMY</Navbar.Brand>
-                        {/* <NavLink className="text-white items" to="#">E-Learning</NavLink> */}
+
                     </div>
                     <div className="col-md-9">
                         <div className="menu-container ">

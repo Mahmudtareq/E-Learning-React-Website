@@ -11,7 +11,7 @@ const Header = () => {
 
                     <div className="col-md-6">
                         <h1 className="title">
-                            For every student, <br /> every classroom. <br />
+                            For every student, <br /> every classroom <br />
                             Real results.
                         </h1>
                         <p className="text-dark text-center mt-3">
